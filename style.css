@@ -442,7 +442,7 @@
  
  
  
- #user_1, #user_3, #user_4 {
+ #user_1,{
    animation: none;
    height: 50%;
    width: 108px;
@@ -462,8 +462,14 @@
 }
 
 #user_3 {
- width : 157px
- height :92px
+ animation: none;
+ width: 157px;
+ height: 92px;
+}
+
+#user_4 {
+  width: 92px;
+  height: 157px;
 }
  
  #user1, #user2, #user3, #user4 {
