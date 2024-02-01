@@ -441,13 +441,7 @@
  }
  
  
- 
- #user_1,{
-   animation: none;
-   height: 50%;
-   width: 108px;
-   height: 198px;
- }
+
  #user_1 {
    width: 108px;
    height: 156px;
@@ -463,13 +457,13 @@
 
 #user_3 {
  animation: none;
- width: 157px;
- height: 92px;
+ width: 157px !important;
+ height: 92px !important;
 }
 
 #user_4 {
-  width: 92px;
-  height: 157px;
+  width: 92px !important;
+  height: 157px !important; 
 }
  
  #user1, #user2, #user3, #user4 {
