@@ -464,7 +464,7 @@
 }
 
 #user_3 {
-  clip-path: polygon(10% 0, 100% 0, 100% 50%, 10% 50%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 100% 0);
 }
  
  #user1, #user2, #user3, #user4 {
